@@ -1,4 +1,4 @@
-.main {
+/* .main {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -113,7 +113,7 @@
     background: rgba(var(--card-rgb), 0.1);
     border: 1px solid rgba(var(--card-border-rgb), 0.15);
   }
-
+  padding-top
   .card:hover span {
     transform: translateX(4px);
   }
@@ -226,4 +226,9 @@
   to {
     transform: rotate(0deg);
   }
+} 
+
+.scd-css {
+  background-image: url("../images/lvp.png");
 }
+
